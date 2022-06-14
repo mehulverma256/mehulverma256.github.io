@@ -4927,7 +4927,7 @@ a img {
 
 .header-icons .icon:active,
 .header-icons .icon:hover {
-    color: #1488CC;
+    color: #0f0042;
     background: #fff
 }
 
@@ -5086,7 +5086,7 @@ a img {
     margin: 10px 0;
     padding: 5px;
     color: #1488CC;
-    background-color: transparent;
+    background-color: #002a41;
     border: 1px solid #1488CC;
     border-radius: 10px;
     text-align: center;
@@ -5098,11 +5098,12 @@ a img {
 
 .project-link:active,
 .project-link:hover {
-    background-color: #5347a8;
+    background-color: #818181;
     border-color: #5347a8;
-    color: #fff;
+    color: rgb(14, 8, 53);
     transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in
 }
+
 
 .footer {
     background: #1488CC;
